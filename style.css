@@ -1,0 +1,137 @@
+    body {
+        background: linear-gradient(231.85deg, #0f2d53 8.26%, #789dca 33.12%);
+    }
+    
+    header {
+        background: #AAA;
+        padding: 25px;
+        border-radius: 25% 0 0 0;
+    }
+    
+    header img {
+        width: 250px;
+        height: 250px;
+        float: right;
+        border-radius: 50%;
+    }
+    
+    nav {
+        margin-top: 70px;
+    }
+    
+    nav a {
+        text-decoration: none;
+        text-transform: uppercase;
+        color: #000000;
+        font-weight: bold;
+        font-size: 15px;
+    }
+    
+    nav a:hover {
+        color: rgba(65, 26, 243, 0.938);
+        text-decoration: underline;
+    }
+    
+    ul li {
+        display: inline;
+        margin-left: 55px;
+    }
+    
+    h1 {
+        margin: 5px;
+    }
+    
+    h2 {
+        margin: 5px;
+    }
+    
+    h3 {
+        padding-top: 20px;
+    }
+    
+    h5 {
+        text-align: center;
+    }
+    
+    p {
+        text-align: center;
+    }
+    
+    main .formacao h5 {
+        margin-top: 2px;
+        margin-bottom: 10px;
+    }
+    
+    main .formacao p {
+        margin-top: 2px;
+    }
+    
+    section {
+        background-color: #AAA;
+    }
+    
+    section h3 {
+        text-align: center;
+    }
+    
+    .containner {
+        display: flex;
+        margin-top: 20px;
+    }
+    
+    .containner h5 {
+        font-size: 20px;
+        color: blue;
+    }
+    
+    .containner p {
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    .projeto {
+        margin: 30px 50px;
+        text-align: center;
+        border: 1px solid rgb(141, 139, 139);
+    }
+    
+    .projeto img {
+        width: 130px;
+        height: 100px;
+        border-radius: 5%;
+        align-self: center;
+    }
+    
+    button {
+        margin-bottom: 1px;
+        cursor: pointer;
+    }
+    
+    aside {
+        text-align: center;
+        background: linear-gradient(231.85deg, #051933 28.58%, #3468A7 93.32%);
+    }
+    
+    .contatos img {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        align-self: center;
+        cursor: pointer;
+    }
+    
+    #logoApp {
+        width: 40px;
+        height: 30px;
+        padding: 6px;
+    }
+    
+    .rodape {
+        background: linear-gradient(231.85deg, #051933 28.58%, #3468A7 93.32%);
+        border-radius: 0 0 30% 0;
+    }
+    
+    footer {
+        margin-top: 25px;
+        text-align: center;
+    }
