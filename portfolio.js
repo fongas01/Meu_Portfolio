@@ -8,3 +8,10 @@ function whatsApp() {
 
     window.open("http://wa.me/+5521993817779?text=" + "  " + mensagem);
 }
+
+function linkedin() {
+
+    let linkedin;
+
+    window.open("https://www.linkedin.com/in/fernando-manuel-38846939");
+}
