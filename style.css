@@ -47,6 +47,7 @@
     
     h3 {
         padding-top: 20px;
+        text-align: center;
     }
     
     h5 {
@@ -107,12 +108,7 @@
         align-self: center;
     }
     
-    button {
-        margin-bottom: 1px;
-        cursor: pointer;
-    }
-    
-    aside {
+    .contatos {
         text-align: center;
         background: linear-gradient(231.85deg, #051933 28.58%, #3468A7 93.32%);
     }
@@ -122,6 +118,11 @@
         height: 30px;
         border-radius: 50%;
         align-self: center;
+        cursor: pointer;
+    }
+    
+    button {
+        margin-bottom: 1px;
         cursor: pointer;
     }
     
