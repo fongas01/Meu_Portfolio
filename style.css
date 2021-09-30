@@ -124,12 +124,8 @@
     button {
         margin-bottom: 1px;
         cursor: pointer;
-    }
-    
-    #logoApp {
-        width: 40px;
-        height: 30px;
-        padding: 6px;
+        background: linear-gradient(231.85deg, #051933 28.58%, #3468A7 93.32%);
+        border-radius: 50%;
     }
     
     .rodape {

@@ -11,7 +11,14 @@ function whatsApp() {
 
 function linkedin() {
 
-    let linkedin;
+    //let linkedin;
 
     window.open("https://www.linkedin.com/in/fernando-manuel-38846939");
+}
+
+function email() {
+
+    // let email;
+
+    window.open("mailto:nando.fongas@gmail.com");
 }
