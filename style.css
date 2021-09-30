@@ -13,6 +13,7 @@ header img {
     height: 250px;
     float: right;
     border-radius: 50%;
+    box-shadow: rgba(16, 5, 56, 0.932) 0px 22px 70px 4px;
 }
 
 nav {
